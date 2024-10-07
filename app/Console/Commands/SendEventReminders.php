@@ -47,6 +47,6 @@ class SendEventReminders extends Command
             )
         );
 
-        $this->info('Reminder notification ent successfully!');
+        $this->info('Reminder notification sent successfully!');
     }
 }
